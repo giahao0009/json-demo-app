@@ -1,0 +1,58 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "admin1@email.com",
+            "password": "bruno",
+            "admin": true
+        },
+        {
+            "id": 2,
+            "email": "admin2@email.com",
+            "password": "techie",
+            "admin": true
+        },
+        {
+            "id": 3,
+            "email": "admin3@email.com",
+            "password": "nilson",
+            "admin": true
+        },
+        {
+            "id": 4,
+            "email": "nilson1@email.com",
+            "password": "nilson",
+            "admin": true
+        },
+        {
+            "id": 5,
+            "email": "nilson2@email.com",
+            "password": "nilson",
+            "admin": true
+        },
+        {
+            "id": 6,
+            "email": "nilson3@email.com",
+            "password": "nilson",
+            "admin": true
+        },
+        {
+            "id": 7,
+            "email": "nilson4@email.com",
+            "password": "nilson",
+            "admin": true
+        },
+        {
+            "id": 8,
+            "email": "nilson7@email.com",
+            "password": "nilson",
+            "admin": true
+        },
+        {
+            "id": 9,
+            "email": "nilson8@email.com",
+            "password": "nilson",
+            "admin": true
+        }
+    ]
+}

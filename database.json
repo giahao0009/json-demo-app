@@ -1,0 +1,100 @@
+{
+  "todoList": [
+    {
+      "id": 1,
+      "title": "Cong viec 1",
+      "description": "Chi tiet cong viec 1",
+      "user": "admin1@email.com"
+    },
+    {
+      "id": 2,
+      "title": "Cong viec 2",
+      "description": "Chi tiet cong viec 2",
+      "user": "admin1@email.com"
+    },
+    {
+      "id": 3,
+      "title": "Cong viec 3",
+      "description": "Chi tiet cong viec 3",
+      "user": "admin1@email.com"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "title": "Thông báo 1",
+      "content": "Thông báo 1"
+    },
+    {
+      "id": 2,
+      "title": "Thông báo 1",
+      "content": "Thông báo 1"
+    },
+    {
+      "id": 3,
+      "title": "Thông báo 1",
+      "content": "Thông báo 1"
+    },
+    {
+      "id": 4,
+      "title": "Thông báo 1",
+      "content": "Thông báo 1"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "admin1@email.com",
+      "name": "bruno",
+      "admin": true
+    },
+    {
+      "id": 2,
+      "email": "admin2@email.com",
+      "name": "techie",
+      "admin": true
+    },
+    {
+      "id": 3,
+      "email": "admin3@email.com",
+      "name": "nilson",
+      "admin": true
+    },
+    {
+      "id": 4,
+      "email": "nilson1@email.com",
+      "name": "nilson",
+      "admin": true
+    },
+    {
+      "id": 5,
+      "email": "nilson2@email.com",
+      "name": "nilson",
+      "admin": true
+    },
+    {
+      "id": 6,
+      "email": "nilson3@email.com",
+      "name": "nilson",
+      "admin": true
+    },
+    {
+      "id": 7,
+      "email": "nilson4@email.com",
+      "name": "nilson",
+      "admin": true
+    },
+    {
+      "id": 8,
+      "email": "nilson7@email.com",
+      "name": "nilson",
+      "admin": true
+    },
+    {
+      "id": 9,
+      "email": "nilson8@email.com",
+      "name": "nilson",
+      "admin": true
+    }
+  ]
+}
